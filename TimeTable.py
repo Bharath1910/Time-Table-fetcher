@@ -11,7 +11,6 @@ Wednesday = ["Wednesday","CS","Chemistry","Maths"]
 Thursday = ["Thursday","Physics","CS","English"]
 Friday = ["Friday","CS","Chemistry","Maths"]
 Saturday = ["Saturday","Physics","English","CS"]
-Sunday = ["hello","CS","Chemistry","Maths"]
 
 days = [
         Monday,
