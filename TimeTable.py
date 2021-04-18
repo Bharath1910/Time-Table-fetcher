@@ -48,7 +48,7 @@ Todays_time_table = Total_time_table.get_string(start=now.weekday())
 Minute_Hour = now.hour,now.minute
 
 
-
+#commands
 if sys.argv[1] == "--help":
     print(Help_Table)
 
