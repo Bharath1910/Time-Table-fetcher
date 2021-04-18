@@ -18,8 +18,7 @@ days = [
         Wednesday,
         Thursday,
         Friday,
-        Saturday,
-        Sunday   
+        Saturday
         ]
 
 #help Table 
